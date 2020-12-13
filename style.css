@@ -22,7 +22,13 @@
     background-size: cover;
     background-attachment: fixed;
 }
-
+.pg3{
+    background-image: url("img/pagina3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
 .font{
     font-family: 'Andika New Basic', sans-serif;
 }
