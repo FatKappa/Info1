@@ -3,6 +3,10 @@
     padding:0;
     box-sizing: border-box;
 }
+-webkit-scrollbar {
+    display: none;
+}
+
 .home{
     background-image: url("img/pg1.jpg");
     background-repeat: no-repeat;
